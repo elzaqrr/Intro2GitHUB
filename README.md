@@ -14,7 +14,7 @@ Below, some numbers from University of Coimbra.
 | Scholarship Fellows | 343 |
 
 ```
-*data from uc.pt on February 29th, 2024
+* data from uc.pt on February 29th, 2024
 ```
 
 ## About
