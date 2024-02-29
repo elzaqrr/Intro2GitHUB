@@ -1,2 +1,2 @@
 # Intro2GitHUB
-My first repository.
+The first repository of elzaqrr.
