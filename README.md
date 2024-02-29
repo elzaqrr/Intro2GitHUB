@@ -1,4 +1,4 @@
-![Graph1](https://github.com/elzaqrr/Intro2GitHUB/assets/161736454/42a58c3f-edf7-417c-9199-ea2ce88ffa0b)# Intro2GitHUB
+# Intro2GitHUB
 The first repository of elzaqrr.
 
 ## UC numbers
@@ -17,7 +17,7 @@ Below, some numbers from University of Coimbra.
 * data from uc.pt on February 29th, 2024
 ```
 
-![UC numbers graph]()
+![UC numbers graph](https://github.com/elzaqrr/Intro2GitHUB/assets/161736454/42a58c3f-edf7-417c-9199-ea2ce88ffa0b)
 
 
 
